@@ -65,7 +65,7 @@ i am also an open-source enthusiast. I learned a lot from the open-source commun
 	
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeelPatel2306&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 -----
 Credits: [Neel Patel](https://github.com/NeelPatel2306)

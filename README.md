@@ -43,8 +43,9 @@ i am also an open-source enthusiast. I learned a lot from the open-source commun
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-  
-  ## My Stats
+<br>
+	
+## My Stats
 
 <p>
 <a href="https://github.com/NeelPatel2306">
@@ -52,6 +53,12 @@ i am also an open-source enthusiast. I learned a lot from the open-source commun
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeelPatel2306&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
+<br>
+	
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeelPatel2306&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -62,10 +69,6 @@ i am also an open-source enthusiast. I learned a lot from the open-source commun
 	<a href="https://www.facebook.com/profile.php?id=100014048918476"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/ig_neel23/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://www.snapchat.com/add/neelpatel2306?share_id=_troIpIi9gA&locale=en-IN"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-	
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeelPatel2306&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 -----
 Credits: [Neel Patel](https://github.com/NeelPatel2306)

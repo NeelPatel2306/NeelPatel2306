@@ -1,16 +1,15 @@
-<h1 align="center">:pray:  नमस्ते  <!--, I'm Neel Patel--> :pray:<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>-->
+<h1 align="center">:pray:  नमस्ते  <!--, I'm Neel Patel--> :pray:
 <br>
 <br>
 <p align="center"> 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ML+%7C+WEB+DEVELOPMENT+%7C+AI;Exploring+new+programming+languages..&center=true&width=500&height=50"></a>
 </p>
-
-<h4>hi, i'm Neel Patel, a 3rd year <b>INFORMATION TECHNOLOGY</b> student from india. my passion for programming with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<h4><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">    hi, i'm Neel Patel, a 3rd year <b>INFORMATION TECHNOLOGY</b> student from <b>India</b>. my passion for programming with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
   
 i am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h4>
 
 <br>
-	
+	 
 ## :sassy_man:  About me
 - :school: I am a `3rd year student` at Saffrony Institute of Technology.
 - :technologist: I love developing website as per the `Requirement`

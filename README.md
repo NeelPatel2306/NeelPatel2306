@@ -4,14 +4,14 @@
 <p align="center"> 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ML+%7C+WEB+DEVELOPMENT+%7C+AI;Exploring+new+programming+languages..&center=true&width=500&height=50"></a>
 </p>
-<h4><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">    hi, i'm Neel Patel, a 3rd year <b>INFORMATION TECHNOLOGY</b> student from <b>India</b>. my passion for programming with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<h4><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">    hi, i'm Neel Patel, a Final year <b>INFORMATION TECHNOLOGY</b> student from <b>India</b>. my passion for programming with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
   
 i am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h4>
 
 <br>
 	 
 ## :sassy_man:  About me
-- :school: I am a `3rd year student` at Saffrony Institute of Technology.
+- :school: I am a `Final year student` at Saffrony Institute of Technology.
 - :technologist: I love developing website as per the `Requirement`
 - :student: I’m currently learning: `Information Technology`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, <!--this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).-->
